@@ -1,3 +1,11 @@
+#++++++++++++++++++++++++++++++Computer Architecture+++++++++++++++++++++++++++
+#
+#			Nguyễn Hoàng Sơn - 20184187 
+#	HEDSPI, SOICT, Hanoi University of Science and Technology
+#	 	   Convert Infix to Postfix and Calculate
+#
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 .data
 	infix: .space 256		#Chua bieu thuc infix
 	postfix: .space 256	#Chua bieu thuc postfix
